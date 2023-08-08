@@ -1,1 +1,1 @@
-# high-resoluton-estimates-show-increase-in-concentrations-with-depth-and-effects-of-discharges
+# high-resolution-estimates-show-increase-in-concentrations-with-depth-and-effects-of-discharges
