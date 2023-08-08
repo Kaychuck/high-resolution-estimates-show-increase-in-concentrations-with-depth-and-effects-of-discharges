@@ -1,3 +1,4 @@
+%matlab script%
 %read in dates
 dat_in= readtable("IN_date.csv")
 dat2_in=table2array(dat_in)
